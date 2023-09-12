@@ -4,7 +4,10 @@ Capstone project at HKU, Spring 2020.
 
 ## Abstract
 As the consumption of dairy products in China is increasing year by year, the demand for cold chain transportation service for dairy products has also proliferated. While energy consumption and carbon emissions of the cold chain are much higher than those of typical temperature logistics, the low-carbon cold chain is a significant development trend. Therefore, carbon trading can be introduced to promote reductions in carbon emissions.
-The study takes cold chain logistics of dairy products as a research object and considers the optimization of location-routing problem based on carbon trading. A mixed-integer linear programming model of the location-routing problem is carried out, the hybrid genetic algorithm with heuristic rules is used to obtain the approximate solution of the mathematical model. The algorithms are implemented by programming with Python. The study can provide a reference for companies with location-routing problems. Moreover, the study adds the carbon trading mechanism into the cold chain transportation of dairy products, which has theoretical value for the development of green cold chain and environmental protection.
+ 
+The study takes cold chain logistics of dairy products as a research object and considers the optimization of location-routing problem based on carbon trading. A mixed-integer linear programming model of the location-routing problem is carried out, the hybrid genetic algorithm with heuristic rules is used to obtain the approximate solution of the mathematical model. 
+ 
+The algorithms are implemented by programming with Python. The study can provide a reference for companies with location-routing problems. Moreover, the study adds the carbon trading mechanism into the cold chain transportation of dairy products, which has theoretical value for the development of green cold chain and environmental protection.
 Keywords: Dairy products; cold chain; carbon trading; location-routing problem
 
 ## Experimental Results
